@@ -18,10 +18,10 @@ import (
 	"encoding/json"
 	"net/url"
 
-	"github.com/google/martian/v3"
-	"github.com/google/martian/v3/filter"
-	"github.com/google/martian/v3/log"
-	"github.com/google/martian/v3/parse"
+	"github.com/0x3f97/martian/v3"
+	"github.com/0x3f97/martian/v3/filter"
+	"github.com/0x3f97/martian/v3/log"
+	"github.com/0x3f97/martian/v3/parse"
 )
 
 var noop = martian.Noop("url.Filter")
