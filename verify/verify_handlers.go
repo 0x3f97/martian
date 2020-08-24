@@ -19,7 +19,7 @@ import (
 	"net/http"
 
 	"github.com/0x3f97/martian/v3"
-	"github.com/0x3f97/martian/v3/log"
+	"github.com/0x3f97/martian/v4/log"
 )
 
 // Handler is an http.Handler that returns the request and response

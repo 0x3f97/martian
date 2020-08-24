@@ -26,9 +26,9 @@ import (
 	"sync"
 
 	"github.com/0x3f97/martian/v3"
-	"github.com/0x3f97/martian/v3/log"
-	"github.com/0x3f97/martian/v3/parse"
-	"github.com/0x3f97/martian/v3/verify"
+	"github.com/0x3f97/martian/v4/log"
+	"github.com/0x3f97/martian/v4/parse"
+	"github.com/0x3f97/martian/v4/verify"
 )
 
 // Group is a martian.RequestResponseModifier that maintains lists of

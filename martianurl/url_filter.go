@@ -19,9 +19,9 @@ import (
 	"net/url"
 
 	"github.com/0x3f97/martian/v3"
-	"github.com/0x3f97/martian/v3/filter"
-	"github.com/0x3f97/martian/v3/log"
-	"github.com/0x3f97/martian/v3/parse"
+	"github.com/0x3f97/martian/v4/filter"
+	"github.com/0x3f97/martian/v4/log"
+	"github.com/0x3f97/martian/v4/parse"
 )
 
 var noop = martian.Noop("url.Filter")

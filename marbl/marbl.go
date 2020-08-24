@@ -44,8 +44,8 @@ import (
 	"time"
 
 	"github.com/0x3f97/martian/v3"
-	"github.com/0x3f97/martian/v3/log"
-	"github.com/0x3f97/martian/v3/proxyutil"
+	"github.com/0x3f97/martian/v4/log"
+	"github.com/0x3f97/martian/v4/proxyutil"
 )
 
 // MessageType incicates whether the message represents an HTTP request or response.

@@ -21,7 +21,7 @@ import (
 	"net/http"
 
 	"github.com/0x3f97/martian/v3"
-	"github.com/0x3f97/martian/v3/log"
+	"github.com/0x3f97/martian/v4/log"
 )
 
 // Forwarder is a request modifier that routes the request to the API server and

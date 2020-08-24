@@ -20,7 +20,7 @@ import (
 	"net/http"
 
 	"github.com/0x3f97/martian/v3"
-	"github.com/0x3f97/martian/v3/parse"
+	"github.com/0x3f97/martian/v4/parse"
 )
 
 // RoundTrip is a modifier that skips the request round-trip.

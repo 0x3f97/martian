@@ -21,7 +21,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/0x3f97/martian/v3/log"
+	"github.com/0x3f97/martian/v4/log"
 )
 
 // Conn wraps a net.Conn and simulates connection latency and bandwidth

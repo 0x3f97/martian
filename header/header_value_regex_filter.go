@@ -20,7 +20,7 @@ import (
 	"regexp"
 
 	"github.com/0x3f97/martian/v3"
-	"github.com/0x3f97/martian/v3/parse"
+	"github.com/0x3f97/martian/v4/parse"
 )
 
 // ValueRegexFilter executes resmod and reqmod when the header

@@ -34,9 +34,9 @@ import (
 	"unicode/utf8"
 
 	"github.com/0x3f97/martian/v3"
-	"github.com/0x3f97/martian/v3/log"
-	"github.com/0x3f97/martian/v3/messageview"
-	"github.com/0x3f97/martian/v3/proxyutil"
+	"github.com/0x3f97/martian/v4/log"
+	"github.com/0x3f97/martian/v4/messageview"
+	"github.com/0x3f97/martian/v4/proxyutil"
 )
 
 // Logger maintains request and response log entries.

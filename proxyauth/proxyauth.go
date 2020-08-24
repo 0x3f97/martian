@@ -22,7 +22,7 @@ import (
 	"strings"
 
 	"github.com/0x3f97/martian/v3"
-	"github.com/0x3f97/martian/v3/auth"
+	"github.com/0x3f97/martian/v4/auth"
 )
 
 var noop = martian.Noop("proxyauth.Modifier")

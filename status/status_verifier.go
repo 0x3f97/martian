@@ -20,8 +20,8 @@ import (
 	"net/http"
 
 	"github.com/0x3f97/martian/v3"
-	"github.com/0x3f97/martian/v3/parse"
-	"github.com/0x3f97/martian/v3/verify"
+	"github.com/0x3f97/martian/v4/parse"
+	"github.com/0x3f97/martian/v4/verify"
 )
 
 const errFormat = "response(%s) status code verify failure: got %d, want %d"

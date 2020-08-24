@@ -19,9 +19,9 @@ import (
 	"net/http"
 
 	"github.com/0x3f97/martian/v3"
-	"github.com/0x3f97/martian/v3/log"
-	"github.com/0x3f97/martian/v3/parse"
-	"github.com/0x3f97/martian/v3/proxyutil"
+	"github.com/0x3f97/martian/v4/log"
+	"github.com/0x3f97/martian/v4/parse"
+	"github.com/0x3f97/martian/v4/proxyutil"
 )
 
 func init() {

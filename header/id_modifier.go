@@ -19,7 +19,7 @@ import (
 	"net/http"
 
 	"github.com/0x3f97/martian/v3"
-	"github.com/0x3f97/martian/v3/parse"
+	"github.com/0x3f97/martian/v4/parse"
 )
 
 const idHeaderName string = "X-Martian-ID"

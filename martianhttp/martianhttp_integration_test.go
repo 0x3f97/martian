@@ -23,9 +23,9 @@ import (
 	"testing"
 
 	"github.com/0x3f97/martian/v3"
-	"github.com/0x3f97/martian/v3/martiantest"
+	"github.com/0x3f97/martian/v4/martiantest"
 
-	_ "github.com/0x3f97/martian/v3/header"
+	_ "github.com/0x3f97/martian/v4/header"
 )
 
 func TestIntegration(t *testing.T) {
