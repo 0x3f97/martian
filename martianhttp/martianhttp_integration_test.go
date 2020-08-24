@@ -22,7 +22,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/0x3f97/martian/v3"
+	"github.com/0x3f97/martian/v4"
 	"github.com/0x3f97/martian/v4/martiantest"
 
 	_ "github.com/0x3f97/martian/v4/header"

@@ -205,7 +205,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/0x3f97/martian/v3"
+	"github.com/0x3f97/martian/v4"
 	mapi "github.com/0x3f97/martian/v4/api"
 	"github.com/0x3f97/martian/v4/cors"
 	"github.com/0x3f97/martian/v4/fifo"

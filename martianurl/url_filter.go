@@ -18,7 +18,7 @@ import (
 	"encoding/json"
 	"net/url"
 
-	"github.com/0x3f97/martian/v3"
+	"github.com/0x3f97/martian/v4"
 	"github.com/0x3f97/martian/v4/filter"
 	"github.com/0x3f97/martian/v4/log"
 	"github.com/0x3f97/martian/v4/parse"

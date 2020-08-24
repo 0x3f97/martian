@@ -19,7 +19,7 @@ package verify
 import (
 	"net/http"
 
-	"github.com/0x3f97/martian/v3"
+	"github.com/0x3f97/martian/v4"
 )
 
 // RequestVerifier is a RequestModifier that maintains a verification state.

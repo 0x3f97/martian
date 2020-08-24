@@ -21,7 +21,7 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/0x3f97/martian/v3"
+	"github.com/0x3f97/martian/v4"
 	"github.com/0x3f97/martian/v4/parse"
 )
 

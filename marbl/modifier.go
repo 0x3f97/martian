@@ -18,7 +18,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/0x3f97/martian/v3"
+	"github.com/0x3f97/martian/v4"
 )
 
 // Modifier implements the Martian modifier interface so that marbl logs
